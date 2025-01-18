@@ -1,0 +1,8 @@
+{
+  "devDependencies": {
+    "@wordpress/env": "^10.16.0"
+  },
+  "scripts": {
+    "start": "wp-env start"
+  }
+}
