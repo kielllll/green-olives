@@ -12,8 +12,8 @@
 
 ?>
 
-<!-- wp:group {"layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
-<div class="wp-block-group"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"margin":{"left":"0","right":"0"}}},"fontSize":"small"} -->
+<!-- wp:group {"style":{"elements":{"link":{"color":{"text":"var:preset|color|base"}}}},"backgroundColor":"accent-1","textColor":"base","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"center"}} -->
+<div class="wp-block-group has-base-color has-accent-1-background-color has-text-color has-background has-link-color"><!-- wp:paragraph {"align":"center","style":{"layout":{"selfStretch":"fill","flexSize":null},"spacing":{"margin":{"left":"0","right":"0"}}},"fontSize":"small"} -->
 <p class="has-text-align-center has-small-font-size" style="margin-right:0;margin-left:0">Sign up for free newsletters and get more Green Olives delivered to your inbox</p>
 <!-- /wp:paragraph -->
 
