@@ -19,27 +19,27 @@
           "slug": "contrast"
         },
         {
-          "color": "#FFEE58",
+          "color": "#697B03",
           "name": "Accent 1",
           "slug": "accent-1"
         },
         {
-          "color": "#F6CFF4",
+          "color": "#7E4E24",
           "name": "Accent 2",
           "slug": "accent-2"
         },
         {
-          "color": "#503AA8",
+          "color": "#CCAF00",
           "name": "Accent 3",
           "slug": "accent-3"
         },
         {
-          "color": "#686868",
+          "color": "#A4B363",
           "name": "Accent 4",
           "slug": "accent-4"
         },
         {
-          "color": "#FBFAF3",
+          "color": "#E93C3C",
           "name": "Accent 5",
           "slug": "accent-5"
         },
@@ -51,8 +51,8 @@
       ]
     },
     "layout": {
-      "contentSize": "645px",
-      "wideSize": "1340px"
+      "contentSize": "1115px",
+      "wideSize": "1368px"
     },
     "spacing": {
       "defaultSpacingSizes": false,
